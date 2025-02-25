@@ -1,0 +1,20 @@
+{
+    "messages": {
+        "StudentClubs.contactAdministrator": "Contact Your Administrator",
+        "StudentClubs.dataError": "There was an error retrieving your data",
+        "StudentClubs.notConfigured": "The card is not yet configured or configuration is not available except on Step 2 \"Configuration\"",
+        "StudentClubs.noClubs": "There are no clubs you are member in the current semester",
+        "StudentClubs.addClub": "Add Club",
+        "StudentClubs.code": "Club Code",
+        "StudentClubs.desc": "Club Name",
+        "StudentClubs.cancel": "Cancel",
+        "StudentClubs.save": "Save",
+        "StudentClubs.delete": "Delete",
+        "StudentClubs.editClub.addTitle": "Add Club",
+        "StudentClubs.editClub.editTitle": "Edit Club",
+        "StudentClubs.editClub.instructions": "Select Club from the list",
+        "StudentClubs.editClub.limit": " Club limit reached for this semester, cannot add more",
+        "StudentClubs.confirmDeleteContact.title": "Confirm Clubontact Deletion",
+        "StudentClubs.confirmDeleteContact.instructions": "Please confirm you wish to delete club"
+    }
+}
